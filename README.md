@@ -50,6 +50,14 @@ This project is a simple application that allows users to speak in one language,
 
 3. Access the application through your web browser.
 
+## Live Preview:
+
+1. Streamlit.
+   https://speach-to-speach.streamlit.app/
+
+2. Huggingface
+   (https://huggingface.co/spaces/MBinAsif/Speach-to-Speach)
+
 ## Contributors:
 
 - **Author**: Muhammad Bin Asif
