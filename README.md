@@ -52,7 +52,7 @@ This project is a simple application that allows users to speak in one language,
 
 ## Contributors:
 
-- **Author**: [Your Name]
-- **Maintainer**: [Your Email]
+- **Author**: Muhammad Bin Asif
+- **Maintainer**: mbinasifmba18@gmail.com
 
 Feel free to contribute, report issues, or suggest improvements!
