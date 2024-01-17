@@ -3,3 +3,4 @@ SpeechRecognition
 googletrans
 cryptography
 pyttsx3
+pyaudio
