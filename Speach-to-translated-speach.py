@@ -4,6 +4,11 @@ from googletrans import Translator
 from cryptography.fernet import Fernet
 import pyttsx3
 
+import sys
+print(sys.executable)
+print(sys.path)
+
+
 # Function to encrypt the spoken words
 def encrypt(text, key):
     cipher = Fernet(key)
